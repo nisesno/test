@@ -1,0 +1,7 @@
+# Archivos generados que no deberían estar en el repositorio
+frontend/widget/repomix-output.txt
+
+# Carpetas y archivos comunes para ignorar
+node_modules/
+.DS_Store
+*.log
